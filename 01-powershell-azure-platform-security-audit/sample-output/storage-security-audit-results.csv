@@ -1,0 +1,2 @@
+"StorageAccountName","ResourceGroupName","Kind","Location","SkuName","MinimumTlsVersion","TlsStatus","EnableHttpsTrafficOnly","HttpsStatus","PublicAccessStatus","OverAllStatus"
+"stplatmshahum01","RG-Platform-Audit-Lab","StorageV2","canadacentral","Standard_LRS","TLS1_2","Compliant","True","Compliant","Compliant","Compliant"
