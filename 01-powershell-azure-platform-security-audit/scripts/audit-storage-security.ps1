@@ -1,4 +1,3 @@
-```powershell
 # Lab 01 - PowerShell Azure Platform Security Audit
 # Purpose: Audit Azure Storage Account security settings and export the results to CSV.
 
