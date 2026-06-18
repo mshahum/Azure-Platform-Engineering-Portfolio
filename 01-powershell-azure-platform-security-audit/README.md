@@ -375,7 +375,7 @@ The key value is not just the Storage Account itself. The main value is the repe
 
 The script was written in VS Code and includes Azure resource discovery, calculated properties, security status checks, overall compliance logic, CSV export, and summary reporting.
 
-![PowerShell audit script in VS Code](screenshots/01-script-code-in-vscode.png)
+<img width="3200" height="1728" alt="01-powershell-audit-script-code" src="https://github.com/user-attachments/assets/04adf197-fac2-451f-88aa-236b5d2f87f4" />
 
 ---
 
@@ -383,7 +383,7 @@ The script was written in VS Code and includes Azure resource discovery, calcula
 
 The script successfully identified the Storage Account as compliant when secure baseline settings were enabled.
 
-![Compliant audit result](screenshots/02-compliant-audit-result.png)
+<img width="3196" height="1882" alt="02-compliant-audit-result" src="https://github.com/user-attachments/assets/2cad1224-e474-4c8e-8d51-c90b74782449" />
 
 ---
 
@@ -391,7 +391,7 @@ The script successfully identified the Storage Account as compliant when secure 
 
 Blob public access was temporarily enabled to test the detection logic. The script correctly marked the resource as risky and changed the overall status to `Needs Review`.
 
-![Risky storage setting detected](screenshots/03-risky-storage-setting-detected.png)
+<img width="3200" height="1900" alt="03-risky-storage-setting-detected" src="https://github.com/user-attachments/assets/b0ba9688-b793-471b-a026-5625c2777031" />
 
 ---
 
@@ -399,7 +399,7 @@ Blob public access was temporarily enabled to test the detection logic. The scri
 
 The script exported the audit result to a CSV file inside the `sample-output` folder.
 
-![CSV audit report generated](screenshots/04-csv-report-generated.png)
+<img width="2946" height="920" alt="04-csv-report-generated" src="https://github.com/user-attachments/assets/46e48cca-3774-4218-8f10-30d09fe1fc66" />
 
 ---
 
@@ -407,7 +407,7 @@ The script exported the audit result to a CSV file inside the `sample-output` fo
 
 After testing the risky configuration, the setting was restored to secure and the script confirmed the Storage Account returned to a compliant state.
 
-![Secure setting restored](screenshots/05-secure-setting-restored.png)
+<img width="3200" height="1890" alt="05-secure-setting-restored" src="https://github.com/user-attachments/assets/0c707dba-3ca9-4d12-b86c-9ba59181bbe9" />
 
 ---
 
