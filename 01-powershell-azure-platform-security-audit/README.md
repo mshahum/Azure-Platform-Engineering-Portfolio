@@ -371,7 +371,7 @@ The key value is not just the Storage Account itself. The main value is the repe
 
 ## Implementation Evidence
 
-### 1. PowerShell Audit Script in VS Code
+### 1. Powershell Audit Script Code
 
 The script was written in VS Code and includes Azure resource discovery, calculated properties, security status checks, overall compliance logic, CSV export, and summary reporting.
 
